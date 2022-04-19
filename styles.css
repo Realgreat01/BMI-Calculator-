@@ -12,6 +12,8 @@ main{
     background: white;
     height:100vh;
     padding:20px;
+    min-width: 300px;
+    max-width: 450px;
 }
 
 section{
